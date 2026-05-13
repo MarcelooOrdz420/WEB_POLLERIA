@@ -1,4 +1,4 @@
-name: Deploy Pollos por FTPS
+name: Deploy Pollos por FTP
 
 on:
   push:
