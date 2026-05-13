@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="icon" type="image/jpeg" href="/images/ico-pollo.jpg">
     <link rel="shortcut icon" type="image/jpeg" href="/images/ico-pollo.jpg">
-    <title>inicio de Sesión</title>
+    <title>Inicio de Sesión</title>
     <style>
         :root {
             --orange: #ff6f1f;
