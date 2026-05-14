@@ -482,7 +482,7 @@
                         </div>
                         <div class="brand-copy">
                             <p class="brand-kicker">Pollo a la Brasa y Parrillas</p>
-                            <h1 class="brand-title">Pollos y Parrillas "x"</h1>
+                            <h1 class="brand-title">Pollos y Parrillas "El Dorado"</h1>
                             <p class="brand-subtitle">Un recorrido simple desde el antojo hasta el pago, con una experiencia de compra más clara, más elegante y mejor organizada.</p>
                         </div>
                     </div>
